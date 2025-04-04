@@ -43,7 +43,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
+    id: education
     content:
       title: Featured Publications
       filters:
@@ -64,7 +64,7 @@ sections:
     design:
       view: citation
   - block: collection
-    id: talks
+    id: skills
     content:
       title: Recent & Upcoming Talks
       filters:
