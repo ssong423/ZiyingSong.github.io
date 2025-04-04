@@ -81,8 +81,8 @@ work:
     company_name: Siemens
     company_url: 'https://www.siemens.com/global/en.html'
     company_logo: 'https://www.cdcsoftware.com/wp-content/uploads/2019/02/Siemens-Logo.png'
-    date_start: 2024-05
-    date_end: 2024-08
+    date_start: 2024-05-18
+    date_end: 2024-07-21
     summary: |2-
       Responsibilities include:
       - Developed and optimized a knowledge graph backend in Java, improving data retrieval speed by 30% with JSON-based filtering.
@@ -94,8 +94,8 @@ work:
     company_name: ByteDance
     company_url: 'https://www.bytedance.com/en/'
     company_logo: 'https://www.bytedance.com/en/'
-    date_start: 2023-05
-    date_end: 2020-08
+    date_start: 2023-05-23
+    date_end: 2020-08-01
     summary: |
       Responsibilities include:
       - Developed and deployed an end-to-end user intent prediction system, engineering Python-based data pipelines to automate ETL processes, reducing manual workload by 5+ hours per week.
