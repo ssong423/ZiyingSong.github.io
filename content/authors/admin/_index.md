@@ -77,28 +77,32 @@ education:
       Courses: OOP & Data Structures, Database Systems, Machine Learning, Data Analysis, Statistics & Probability, Operation Research
   
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+  - position: Research Scientist
+    company_name: Siemens
+    company_url: 'https://www.siemens.com/global/en.html'
+    company_logo: 'https://www.cdcsoftware.com/wp-content/uploads/2019/02/Siemens-Logo.png'
+    date_start: 2024-05
+    date_end: 2024-08
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Developed and optimized a knowledge graph backend in Java, improving data retrieval speed by 30% with JSON-based filtering.
+      - Developed RESTful APIs with Spring Boot, integrated PostgreSQL, and deployed to Docker, enhancing data storage and enabling real-time retrieval for ML models like GNN and Transformer-based models used for entity-linking and knowledge extraction.
+      - Built a graph neural network (GNN) pipeline to extract structured data relationships, boosting entity-linking accuracy by 20%.
+      - Analyzed datasets using Python and Excel, applying feature engineering and unsupervised clustering (K-Means) to detect trends in industrial data. Led 3 interns in data preprocessing.
+      - Improved data reliability by implementing automated validation tests and ML-based anomaly detection (Isolation Forest, Autoencoder), increasing test coverage by 35%. Presented findings to engineers and product teams for data-informed decisions.
+  - position: Data Scientist Intern Engineer
+    company_name: ByteDance
+    company_url: 'https://www.bytedance.com/en/'
+    company_logo: 'https://www.bytedance.com/en/'
+    date_start: 2023-05
+    date_end: 2020-08
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed and deployed an end-to-end user intent prediction system, engineering Python-based data pipelines to automate ETL processes, reducing manual workload by 5+ hours per week.
+      - Performed feature engineering and exploratory data analysis (EDA) using Pandas, NumPy, and Scikit-learn, extracting behavioral signals from user interactions, click-throughs, and sessions. Optimized SQL queries for real-time data retrieval and model training.
+      - Trained and evaluated machine learning models (e.g., logistic regression, decision trees, random forests) to enhance prediction accuracy by 20%. Tuned hyperparameters and assessed performance using AUC, precision, and recall.
+      - Collaborated with product and engineering teams to refine model insights, driving data-informed enhancements in content ranking and recommendation strategies.
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
