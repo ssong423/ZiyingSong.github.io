@@ -142,9 +142,8 @@ languages:
   - name: English
     percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -180,4 +179,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I’m Ziying Song — currently a master’s student in Data Science at Columbia University. I enjoy building things that make data more useful, whether it’s a backend system for a knowledge graph or a full-stack AI tool powered by ChatGPT. My background blends software engineering and machine learning, and I’ve interned at places like Siemens and ByteDance. Outside of work, I’m usually walking around the city, cooking something new, or sketching whatever catches my eye.
