@@ -110,19 +110,8 @@ work:
     date_end: 2020-05-09
     summary: |
       Responsibilities include:
-      – Supported in-class learning by answering student questions during lectures, helping clarify concepts in multivariable calculus in real time.
-      – Fostered an interactive classroom environment by encouraging questions and peer discussion.
-  - position: Part-time Data Analyst Assistant
-    company_name: China Railway Materials Track Tech Service Group
-    company_url: ''
-    company_logo: ''
-    date_start: 2023-01-10
-    date_end: 2023-04-20
-    summary: |
-      Responsibilities include:
-      – Mined and modeled three years of inspection data across climate, injury type, weld type, and location, identifying patterns in rail flaw occurrences.  
-      – Conducted exploratory data analysis and time series modeling using R to detect seasonal trends and forecast defect rates.  
-      – Improved data reliability and accessibility by cleaning and managing records in SQL, contributing to dashboard-ready outputs.  
+      - Supported in-class learning by answering student questions during lectures, helping clarify concepts in multivariable calculus in real time.
+      - Fostered an interactive classroom environment by encouraging questions and peer discussion.
   - position: Part-time Data Analyst Assistant
     company_name: China Railway Materials Track Tech Service Group
     company_url: 'https://igcen.crmsc.com.cn/aboutus/company/2020/37446.shtml'
@@ -131,10 +120,10 @@ work:
     date_end: 2023-04-20
     summary: |
       Responsibilities include:
-      – Mined and modeled three years of inspection data across climate, injury type, weld type, and location, identifying patterns in rail flaw occurrences.  
-      – Conducted exploratory data analysis and time series modeling using R to detect seasonal trends and forecast defect rates.  
-      – Improved data reliability and accessibility by cleaning and managing records in SQL, contributing to dashboard-ready outputs.  
-      – Designed and ran A/B tests to evaluate the performance of different anomaly detection methods, selecting the optimal approach for long-term monitoring.
+      - Mined and modeled three years of inspection data across climate, injury type, weld type, and location, identifying patterns in rail flaw occurrences.  
+      - Conducted exploratory data analysis and time series modeling using R to detect seasonal trends and forecast defect rates.  
+      - Improved data reliability and accessibility by cleaning and managing records in SQL, contributing to dashboard-ready outputs.  
+      - Designed and ran A/B tests to evaluate the performance of different anomaly detection methods, selecting the optimal approach for long-term monitoring.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
