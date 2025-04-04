@@ -45,11 +45,11 @@ sections:
   - block: collection
     id: education
     content:
-      title: Featured Publications
+      title: Education
       filters:
         folders:
-          - publication
-        featured_only: true
+          - education
+        featured_only: false
     design:
       view: article-grid
       columns: 2
