@@ -46,10 +46,10 @@ sections:
     id: education
     content:
       title: Education
-      # filters:
-      #   folders:
-      #     - education
-      #   featured_only: false
+      filters:
+        folders:
+          - education
+        featured_only: false
     design:
       view: article-grid
       columns: 2
