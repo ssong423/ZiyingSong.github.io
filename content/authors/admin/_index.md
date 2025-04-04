@@ -57,37 +57,25 @@ interests:
 
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
+  - area: Master of Science in Data Science (Expected)
+    institution: Columbia University
+    # date_start: 2024-08-23
+    date_end: 2025-12-20
+    courses: Algorithms, Machine Learning, Deep Learning, EDA & Visualization, Statistical Inference & Modeling, Time Series
+    # summary: |
+    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: Bachelor of Sience in Statistics and Analytics
     institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
+    #date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 3.9/4.0
+      Honors: Highest Distinction, Dean's List
+      Courses: OOP & Data Structures, Database Systems, Machine Learning, Data Analysis, Statistics & Probability, Operation Research
+  
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
