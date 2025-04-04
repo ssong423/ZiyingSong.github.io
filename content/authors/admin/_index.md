@@ -68,7 +68,7 @@ education:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
   - area: Bachelor of Sience in Statistics and Analytics
-    institution: Massachusetts Institute of Technology
+    institution: University of North Carolina at Chapel Hill
     #date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -102,8 +102,39 @@ work:
       - Performed feature engineering and exploratory data analysis (EDA) using Pandas, NumPy, and Scikit-learn, extracting behavioral signals from user interactions, click-throughs, and sessions. Optimized SQL queries for real-time data retrieval and model training.
       - Trained and evaluated machine learning models (e.g., logistic regression, decision trees, random forests) to enhance prediction accuracy by 20%. Tuned hyperparameters and assessed performance using AUC, precision, and recall.
       - Collaborated with product and engineering teams to refine model insights, driving data-informed enhancements in content ranking and recommendation strategies.
-
-
+  - position: Undergraduate Learning Assistant for MAth210 (Math Tools for Data Science)
+    company_name: University of North Carolina at Chapel Hill 
+    company_url: 'https://www.unc.edu/'
+    company_logo: 'https://en.wikipedia.org/wiki/North_Carolina_Tar_Heels_men%27s_basketball#/media/File:North_Carolina_Tar_Heels_logo.svg'
+    date_start: 2023-01-23
+    date_end: 2020-05-09
+    summary: |
+      Responsibilities include:
+      – Supported in-class learning by answering student questions during lectures, helping clarify concepts in multivariable calculus in real time.
+      – Fostered an interactive classroom environment by encouraging questions and peer discussion.
+  - position: Part-time Data Analyst Assistant
+    company_name: China Railway Materials Track Tech Service Group
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-01-10
+    date_end: 2023-04-20
+    summary: |
+      Responsibilities include:
+      – Mined and modeled three years of inspection data across climate, injury type, weld type, and location, identifying patterns in rail flaw occurrences.  
+      – Conducted exploratory data analysis and time series modeling using R to detect seasonal trends and forecast defect rates.  
+      – Improved data reliability and accessibility by cleaning and managing records in SQL, contributing to dashboard-ready outputs.  
+  - position: Part-time Data Analyst Assistant
+    company_name: China Railway Materials Track Tech Service Group
+    company_url: 'https://igcen.crmsc.com.cn/aboutus/company/2020/37446.shtml'
+    company_logo: 'https://en.wikipedia.org/wiki/China_Railway#/media/File:China_Railways.svg'
+    date_start: 2023-01-10
+    date_end: 2023-04-20
+    summary: |
+      Responsibilities include:
+      – Mined and modeled three years of inspection data across climate, injury type, weld type, and location, identifying patterns in rail flaw occurrences.  
+      – Conducted exploratory data analysis and time series modeling using R to detect seasonal trends and forecast defect rates.  
+      – Improved data reliability and accessibility by cleaning and managing records in SQL, contributing to dashboard-ready outputs.  
+      – Designed and ran A/B tests to evaluate the performance of different anomaly detection methods, selecting the optimal approach for long-term monitoring.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -150,31 +181,33 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: China College Students' 'Internet' Innovation and Entrepreneurship Competition
+    url: https://cy.ncss.cn/en/notifications/index
+    date: '2021-10-02'
+    awarder: https://cy.ncss.cn/
+    # icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      - Co-led the development of an AI-powered cancer telemedicine platform focused on early detection and prognosis of nasopharyngeal carcinoma. 
+      - Helped to train deep learning models (such as DQN and DNN) for lesion detection and segmentation using multimodal MRI data. 
+      - Helped secure national-level recognition and awards through innovation in hierarchical healthcare delivery and smart diagnostics.
+
+  - title: Highest Distinction
+    # url: #https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    date: '2023-05-11'
+    awarder: University of North Carolina at Chapel Hill
+    #icon: University of North Carolina at Chapel Hill
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      Graduated with Highest Distinction, awarded to students with exceptional academic performance in the top percentile of the class.
+      Recognized for excellence across coursework, research, and departmental contributions.
+
+  - title: Dean's List 2022-2024
+    # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    # certificate_url: https://www.datacamp.com
+    date: '2024-05-11'
+    awarder: University of North Carolina at Chapel Hill
+    # icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Recognized for outstanding academic achievement by consistently maintaining a high GPA and ranking in the top academic percentile across multiple semesters.
 ---
 
 ## About Me
