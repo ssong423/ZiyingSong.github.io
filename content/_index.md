@@ -42,20 +42,20 @@ sections:
   #       Please reach out to collaborate 😃
   #   design:
   #     columns: '1'
-  - block: collection
-    id: education
-    content:
-      title: Education
-      filters:
-        folders:
-          - education
-        featured_only: false
-    # design:
-    #   view: article-grid
-    #   columns: 2
+  # - block: collection
+  #   id: education
+  #   content:
+  #     title: Education
+  #     filters:
+  #       folders:
+  #         - education
+  #       featured_only: false
+  #   design:
+  #     view: article-grid
+  #     columns: 2
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: Skills 
       username: admin
     design:
       show_skill_percentage: false
