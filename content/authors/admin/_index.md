@@ -88,8 +88,8 @@ work:
     date_end: 2024-07-21
     summary: |2-
       Responsibilities include:
-      - Developed and optimized a knowledge graph backend in Java, improving data retrieval speed by 30% with JSON-based filtering.
-      - Developed RESTful APIs with Spring Boot, integrated PostgreSQL, and deployed to Docker, enhancing data storage and enabling real-time retrieval for ML models like GNN and Transformer-based models used for entity-linking and knowledge extraction.
+      - Developed and optimized a knowledge graph backend in Java, applying OOP principles (e.g., encapsulation, inheritance) to ensure modular, scalable code, improving data retrieval speed by 45% with JSON-based filtering.
+      - Built RESTful APIs with Spring Boot (MVC), integrated PostgreSQL, and deployed via Docker to enable real-time retrieval for GNN and Transformer models in entity-linking and knowledge extraction.
       - Built a graph neural network (GNN) pipeline to extract structured data relationships, boosting entity-linking accuracy by 20%.
       - Analyzed datasets using Python and Excel, applying feature engineering and unsupervised clustering (K-Means) to detect trends in industrial data. Led 3 interns in data preprocessing.
       - Improved data reliability by implementing automated validation tests and ML-based anomaly detection (Isolation Forest, Autoencoder), increasing test coverage by 35%. Presented findings to engineers and product teams for data-informed decisions.
