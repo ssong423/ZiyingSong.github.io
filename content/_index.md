@@ -50,9 +50,9 @@ sections:
         folders:
           - education
         featured_only: false
-    design:
-      view: article-grid
-      columns: 2
+    # design:
+    #   view: article-grid
+    #   columns: 2
   - block: resume-skills
     content:
       title: Skills & Hobbies
