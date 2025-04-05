@@ -10,8 +10,8 @@ tags:
   - Energy
 ---
 
-📄 [Download Project Report (PDF)](/files/electricity_report.pdf)  
-📊 [Download Presentation Slides (PDF)](/files/electricity_slides.pdf)
+📄 [Download Project Report (PDF)](/uploads/electricity_report.pdf)  
+📊 [Download Presentation Slides (PDF)](/uploads/electricity_slide.pdf)
 
 Built a multi-time series forecasting system to predict daily electricity usage for 370 clients using 15-minute interval data.
 
