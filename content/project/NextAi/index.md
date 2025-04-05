@@ -1,5 +1,6 @@
 ---
-title: NextAI: Full-Stack Web Q&A Agent for PDF Document Queries Powered by ChatGPT
+title: "NextAI: Full-Stack Web Q&A Agent for PDF Document Queries Powered by ChatGPT"
+
 date: 2024-03-01
 tags:
   - ReactJS
