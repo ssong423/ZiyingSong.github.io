@@ -10,6 +10,9 @@ tags:
   - Energy
 ---
 
+📄 [Download Project Report (PDF)](/files/electricity_report.pdf)  
+📊 [Download Presentation Slides (PDF)](/files/electricity_slides.pdf)
+
 Built a multi-time series forecasting system to predict daily electricity usage for 370 clients using 15-minute interval data.
 
 - Cleaned and preprocessed raw data, handled daylight saving time gaps/overlaps, and converted kW to kWh.  
