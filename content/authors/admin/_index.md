@@ -127,50 +127,150 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Languages
+  - name: Programming Languages
     items:
-      - Java
-      - Python
-      - R
-      - SQL
-      - JavaScript
-      - C
-      - HTML/CSS
-      - C++
-  
+      - name: Python
+        percent: 90
+        icon: code
+        icon_pack: lucide
+      - name: Java
+        percent: 80
+        icon: file-code
+        icon_pack: lucide
+      - name: R
+        percent: 75
+        icon: bar-chart
+        icon_pack: lucide
+      - name: SQL
+        percent: 85
+        icon: database
+        icon_pack: lucide
+      - name: JavaScript
+        percent: 60
+        icon: brackets
+        icon_pack: lucide
+      - name: C
+        percent: 60
+        icon: terminal
+        icon_pack: lucide
+      - name: HTML/CSS
+        percent: 65
+        icon: layout
+        icon_pack: lucide
+      - name: C++
+        percent: 50
+        icon: layers
+        icon_pack: lucide
+
   - name: Web Development
     items:
-      - ReactJS
-      - Spring Boot / MVC
-      - Express
-      - Node.js
+      - name: ReactJS
+        percent: 60
+        icon: atom
+        icon_pack: lucide
+      - name: Spring Boot / MVC
+        percent: 70
+        icon: settings
+        icon_pack: lucide
+      - name: Express
+        percent: 60
+        icon: server
+        icon_pack: lucide
+      - name: Node.js
+        percent: 65
+        icon: cube
+        icon_pack: lucide
 
   - name: Python Packages
     items:
-      - NumPy
-      - Pandas
-      - Matplotlib
-      - Scikit-learn
-      - PyTorch
-      - TensorFlow
-      - Gensim
-      - BERT
-      - LangChain
+      - name: NumPy
+        percent: 90
+        icon: function-square
+        icon_pack: lucide
+      - name: Pandas
+        percent: 90
+        icon: table
+        icon_pack: lucide
+      - name: Matplotlib
+        percent: 80
+        icon: line-chart
+        icon_pack: lucide
+      - name: Scikit-learn
+        percent: 85
+        icon: brain
+        icon_pack: lucide
+      - name: PyTorch
+        percent: 80
+        icon: flame
+        icon_pack: lucide
+      - name: TensorFlow
+        percent: 75
+        icon: layers
+        icon_pack: lucide
+      - name: Gensim
+        percent: 70
+        icon: network
+        icon_pack: lucide
+      - name: BERT
+        percent: 75
+        icon: bot
+        icon_pack: lucide
+      - name: LangChain
+        percent: 70
+        icon: link
+        icon_pack: lucide
 
   - name: Tools
     items:
-      - Git
-      - AWS
-      - MySQL
-      - PostgreSQL
-      - Docker
-      - Tableau
-      - PowerBI
-      - Excel
-      - Postman
-      - Spark
-      - Stata
-      - RStudio
+      - name: Git
+        percent: 85
+        icon: git-branch
+        icon_pack: lucide
+      - name: AWS
+        percent: 75
+        icon: cloud
+        icon_pack: lucide
+      - name: MySQL
+        percent: 80
+        icon: database
+        icon_pack: lucide
+      - name: PostgreSQL
+        percent: 80
+        icon: database
+        icon_pack: lucide
+      - name: Docker
+        percent: 70
+        icon: package
+        icon_pack: lucide
+      - name: Tableau
+        percent: 80
+        icon: bar-chart
+        icon_pack: lucide
+      - name: PowerBI
+        percent: 75
+        icon: pie-chart
+        icon_pack: lucide
+      - name: Excel
+        percent: 85
+        icon: file-spreadsheet
+        icon_pack: lucide
+      - name: Postman
+        percent: 65
+        icon: send
+        icon_pack: lucide
+      - name: Spark
+        percent: 70
+        icon: bolt
+        icon_pack: lucide
+      - name: Stata
+        percent: 60
+        icon: grid
+        icon_pack: lucide
+      - name: RStudio
+        percent: 80
+        icon: file-bar-chart
+        icon_pack: lucide
+
 
 
 languages:
