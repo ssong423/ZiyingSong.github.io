@@ -10,13 +10,13 @@ main:
   # - name: Education
   #   url: /#education
   #   weight: 11
-  - name: Education & Experience
-    url: /#experience
-    weight: 12
+  # - name: Experience
+  #   url: /#experience
+  #   weight: 12
   - name: Awards
     url: /#awards
     weight: 13
-  - name: Experience
+  - name: Education & Experience
     url: experience/
     weight: 20
   - name: Projects
