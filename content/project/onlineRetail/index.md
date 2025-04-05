@@ -1,7 +1,7 @@
 ---
 title: Online Retail Sales Forecasting
 date: 2025-03-10
-external_link: https://github.com/yourusername/retail-forecasting-project
+# external_link: https://github.com/yourusername/retail-forecasting-project
 tags:
   - Python
   - Forecasting
