@@ -1,5 +1,5 @@
 ---
-title: Online Order: A Spring Boot Based Online Shop System
+title: "Online Order: A Spring Boot Based Online Shop System"
 date: 2024-02-01
 tags:
   - Java
