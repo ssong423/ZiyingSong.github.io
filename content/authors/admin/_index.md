@@ -72,7 +72,7 @@ education:
   - area: Bachelor of Sience in Statistics and Analytics
     institution: University of North Carolina at Chapel Hill
     #date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_end: 2024-05-11
     summary: |
       **GPA**: 3.9/4.0  
       **Honors**: Highest Distinction, Dean's List  
