@@ -11,7 +11,7 @@ tags:
 ---
 
 📄 [Download Project Report (PDF)](/static/uploads/electricity_report.pdf)  
-📊 [Download Presentation Slides (PDF)](/static//uploads/electricity_slide.pdf)
+📊 [Download Presentation Slides (PDF)](/static/uploads/electricity_slide.pdf)
 
 - Built a scalable multi-time series forecasting model to predict daily electricity usage for 370 clients using 15-minute interval data.
 - Handled daylight saving time gaps and overlap, converted units (kW → kWh), and cleaned datetime values for consistency.
