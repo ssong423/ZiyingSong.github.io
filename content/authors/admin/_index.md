@@ -319,4 +319,10 @@ awards:
 
 ## About Me
 
-Hi! I’m Ziying Song — currently a master’s student in Data Science at Columbia University. I enjoy building things that make data more useful, whether it’s a backend system for a knowledge graph or a full-stack AI tool powered by ChatGPT. My background blends software engineering and machine learning, and I’ve interned at places like Siemens and ByteDance. Outside of work, I’m usually walking around the city, cooking something new, or sketching whatever catches my eye.
+Hi! I’m a Master’s student in Data Science at Columbia University. Before that, I studied Statistics with minors in Computer Science and Data Science at UNC Chapel Hill.
+
+I’ve worked on projects spanning machine learning, software development, time series forecasting, and large language models. My experience includes building scalable ML pipelines, developing forecasting models for electricity usage and product-level sales, and applying clustering techniques for behavioral segmentation. I’ve also used GPT and deep learning models for feature engineering and prediction tasks.
+
+Professionally, I’ve interned at Siemens and ByteDance, where I built RESTful APIs, improved backend systems, and helped deliver real-time AI-driven applications. I enjoy translating complex datasets into actionable insights, whether through predictive modeling, system optimization, or smart data engineering.
+
+When I’m not coding, I like cooking, walking around the city, and exploring creative side projects.
