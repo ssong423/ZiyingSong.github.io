@@ -9,6 +9,7 @@ tags:
   - XGBoost
   - Healthcare
 ---
+[Download Project Report (PDF)](https://ssong423.github.io/ZiyingSong.github.io/uploads/STOR565FinalReport.pdf)
 
 Built and evaluated classification models to predict breast cancer malignancy based on medical measurements.
 
