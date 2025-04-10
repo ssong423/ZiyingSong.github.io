@@ -13,8 +13,8 @@ tags:
 <!-- 📄 [Download Project Report (PDF)](/static/uploads/electricity_report.pdf)  
 📊 [Download Presentation Slides (PDF)](/static/uploads/electricity_slide.pdf) -->
 
-[Download Project Report (PDF)](/uploads/electricity_report.pdf)  
-[Download Presentation Slides (PDF)](/uploads/electricity_slide.pdf)
+[Download Project Report (PDF)](https://ssong423.github.io/ZiyingSong.github.io/uploads/electricity_report.pdf)
+[Download Presentation Slides (PDF)](https://ssong423.github.io/ZiyingSong.github.io/uploads/electricity_slide.pdf)
 
 - Built a scalable multi-time series forecasting model to predict daily electricity usage for 370 clients using 15-minute interval data.
 - Handled daylight saving time gaps and overlap, converted units (kW → kWh), and cleaned datetime values for consistency.
