@@ -80,7 +80,7 @@ education:
 
   
 work:
-  - position: Research Scientist
+  - position: Research Scientist Intern
     company_name: Siemens
     company_url: 'https://www.siemens.com/global/en.html'
     company_logo: 'https://www.cdcsoftware.com/wp-content/uploads/2019/02/Siemens-Logo.png'
@@ -94,7 +94,7 @@ work:
       - Partner Value Evaluation Modeling: Implemented supervised models (Logistic Regression/XGBoost) to predict partner value. Engineered features (e.g., partnership duration, collaboration frequency), achieving 87% accuracy and <8% error, guiding allocation.
       - Partner Recommendation System: Built a recommendation system using TensorFlow, applying collaborative filtering and content-based recommendation, with an accuracy rate of 81%. Validated results through A/B testing.
       
-  - position: Data Scientist Intern Engineer
+  - position: Data Scientist Intern
     company_name: ByteDance
     company_url: 'https://www.bytedance.com/en/'
     company_logo: 'https://www.bytedance.com/en/'
@@ -108,7 +108,7 @@ work:
       - Trained and evaluated ML models (e.g., XGBoost, logistic regression, decision trees), improving prediction accuracy by 20% through hyperparameter tuning and performance assessment using AUC, precision, and recall.
       - Built a document quality prediction system with XGBoost (AUC = 0.91), detecting textual redundancy and keyword stuffing, and generating automated scores for 505K+ documents.
       - Led A/B testing and model evaluation using PSM methods, resulting in a 40% improvement in training efficiency for document classification models and contributing to enhanced content ranking strategies in collaboration with cross-functional teams.
-      
+
     company_name: University of North Carolina at Chapel Hill 
     company_url: 'https://www.unc.edu/'
     company_logo: 'https://en.wikipedia.org/wiki/North_Carolina_Tar_Heels_men%27s_basketball#/media/File:North_Carolina_Tar_Heels_logo.svg'
