@@ -109,7 +109,8 @@ work:
       - Built a document quality prediction system with XGBoost (AUC = 0.91), detecting textual redundancy and keyword stuffing, and generating automated scores for 505K+ documents.
       - Led A/B testing and model evaluation using PSM methods, resulting in a 40% improvement in training efficiency for document classification models and contributing to enhanced content ranking strategies in collaboration with cross-functional teams.
 
-  - company_name: University of North Carolina at Chapel Hill 
+  - position: Undergraduate Learning Assistant
+    company_name: University of North Carolina at Chapel Hill 
     company_url: 'https://www.unc.edu/'
     company_logo: 'https://en.wikipedia.org/wiki/North_Carolina_Tar_Heels_men%27s_basketball#/media/File:North_Carolina_Tar_Heels_logo.svg'
     date_start: 2023-01-23
