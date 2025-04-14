@@ -90,9 +90,10 @@ work:
       Responsibilities include:
       - Developed and optimized a knowledge graph backend in Java, applying OOP principles (e.g., encapsulation, inheritance) to ensure modular, scalable code, improving data retrieval speed by 45% with JSON-based filtering.
       - Built RESTful APIs with Spring Boot (MVC), integrated PostgreSQL, and deployed via Docker to enable real-time retrieval for GNN and Transformer models in entity-linking and knowledge extraction.
-      - Built a graph neural network (GNN) pipeline to extract structured data relationships, boosting entity-linking accuracy by 20%.
-      - Analyzed datasets using Python and Excel, applying feature engineering and unsupervised clustering (K-Means) to detect trends in industrial data. Led 3 interns in data preprocessing.
-      - Improved data reliability by implementing automated validation tests and ML-based anomaly detection (Isolation Forest, Autoencoder), increasing test coverage by 35%. Presented findings to engineers and product teams for data-informed decisions.
+      - Enterprise Collaboration Knowledge Graph Construction: Designed a knowledge graph of enterprise collaboration (stakeholders/investors/projects) by extracting key entities from textual data using Python (Pandas) and Excel. Stored structured data in PostgreSQL, improving joint query efficiency by 30%.
+      - Partner Value Evaluation Modeling: Implemented supervised models (Logistic Regression/XGBoost) to predict partner value. Engineered features (e.g., partnership duration, collaboration frequency), achieving 87% accuracy and <8% error, guiding allocation.
+      - Partner Recommendation System: Built a recommendation system using TensorFlow, applying collaborative filtering and content-based recommendation, with an accuracy rate of 81%. Validated results through A/B testing.
+      
   - position: Data Scientist Intern Engineer
     company_name: ByteDance
     company_url: 'https://www.bytedance.com/en/'
@@ -101,11 +102,13 @@ work:
     date_end: 2020-08-01
     summary: |
       Responsibilities include:
-      - Developed and deployed an end-to-end user intent prediction system, engineering Python-based data pipelines to automate ETL processes, reducing manual workload by 5+ hours per week.
-      - Performed feature engineering and exploratory data analysis (EDA) using Pandas, NumPy, and Scikit-learn, extracting behavioral signals from user interactions, click-throughs, and sessions. Optimized SQL queries for real-time data retrieval and model training.
-      - Trained and evaluated machine learning models (e.g., logistic regression, decision trees, random forests) to enhance prediction accuracy by 20%. Tuned hyperparameters and assessed performance using AUC, precision, and recall.
-      - Collaborated with product and engineering teams to refine model insights, driving data-informed enhancements in content ranking and recommendation strategies.
-  - position: Undergraduate Learning Assistant for MAth210 (Math Tools for Data Science)
+      - Built and deployed an end-to-end user intent prediction system, automating Python-based ETL pipelines and reducing manual workload by 5+ hours/week. Also developed an LSTM + Attention model to evaluate text quality, achieving 92% accuracy and automating review of 2M+ UGC items daily.
+      - Engineered features and performed EDA using Pandas, NumPy, and Scikit-learn, extracting user behavioral signals and optimizing SQL queries for real-time retrieval and model training.
+      - Created a MySQL-based platform with co-occurrence tagging, increasing feature extraction efficiency by 60% and enabling downstream modeling workflows.
+      - Trained and evaluated ML models (e.g., XGBoost, logistic regression, decision trees), improving prediction accuracy by 20% through hyperparameter tuning and performance assessment using AUC, precision, and recall.
+      - Built a document quality prediction system with XGBoost (AUC = 0.91), detecting textual redundancy and keyword stuffing, and generating automated scores for 505K+ documents.
+      - Led A/B testing and model evaluation using PSM methods, resulting in a 40% improvement in training efficiency for document classification models and contributing to enhanced content ranking strategies in collaboration with cross-functional teams.
+      
     company_name: University of North Carolina at Chapel Hill 
     company_url: 'https://www.unc.edu/'
     company_logo: 'https://en.wikipedia.org/wiki/North_Carolina_Tar_Heels_men%27s_basketball#/media/File:North_Carolina_Tar_Heels_logo.svg'
