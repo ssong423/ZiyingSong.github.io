@@ -9,6 +9,7 @@ tags:
   - AWS
   - Docker
 ---
+[🔗 View on GitHub](https://github.com/ssong423/online-order-springboot) 
 
 - Implemented CRUD REST APIs using Spring controllers, with features such as registration, adding to cart, and checkout.  
 - Used Spring Data JDBC and repositories to manage user and store data, interfacing with a **PostgreSQL** database on **AWS RDS**.  
