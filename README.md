@@ -29,5 +29,3 @@ Feel free to connect with me:
 - LinkedIn: [linkedin.com/in/ziying-song](https://linkedin.com/in/ziying-song)
 - Email: zs2698@columbia.edu
 
-## 📄 License
-This project is open source under the [MIT License](LICENSE).
