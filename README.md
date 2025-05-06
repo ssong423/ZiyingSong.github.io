@@ -15,13 +15,12 @@ I've completed internships at Siemens and ByteDance, and enjoy working on real-w
 ## 🛠️ Technologies Used
 This website is built using:
 - **HTML / CSS / JavaScript**
-- **Hugo** (or Jekyll, if you're using that)
+- **Hugo** 
 - **GitHub Pages** for deployment
 
 ## 🚀 Features
 - Resume & project highlights
 - Direct links to my GitHub, LinkedIn, and contact email
-- Blog section (optional)
 - Responsive and minimalist design
 
 ## 📬 Contact
