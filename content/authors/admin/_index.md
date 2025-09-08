@@ -80,6 +80,19 @@ education:
 
   
 work:
+- position: Data Analyst Intern
+    company_name: Meituan
+    company_url: 'https://www.siemens.com/global/en.html'
+    company_logo: 'https://www.cdcsoftware.com/wp-content/uploads/2019/02/Siemens-Logo.png'
+    date_start: 2025-06-18
+    date_end: 2025-08-22
+    summary: |2-
+      Responsibilities include:
+      - Developed a CatBoost model leveraging customer demographics, purchase behavior, and chain affiliation to identify high-value clients (28-day ARPU ≥ 5000), boosting ARPU by 18% MoM.
+      - Designed and executed B2B restaurant A/B tests segmented by city and customer tags; measured first-order rate, ARPU, and GMV with SQL + Excel, providing statistically validated insights for sales strategy optimization.
+      - Built and maintained 10+ BI dashboards (1,000+ SQL lines) to monitor BD efficiency, coverage, and conversion; automated SKU-level pricing sheets with SQL + Python, expanding coverage to 13 cities and increasing GMV by 22% MoM.
+      - Analyzed customer quality, BD capability, and brand-customer fit; evaluated category penetration and price sensitivity to deliver monthly optimization reports, including updated P0 customer groups and excluded business categories, supporting strategic planning and BD decision-making.
+
   - position: Research Scientist Intern
     company_name: Siemens
     company_url: 'https://www.siemens.com/global/en.html'
