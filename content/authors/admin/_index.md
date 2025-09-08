@@ -86,7 +86,7 @@ work:
     company_logo: 'https://www.cdcsoftware.com/wp-content/uploads/2019/02/Siemens-Logo.png'
     date_start: 2025-06-18
     date_end: 2025-08-22
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Developed a CatBoost model leveraging customer demographics, purchase behavior, and chain affiliation to identify high-value clients (28-day ARPU ≥ 5000), boosting ARPU by 18% MoM.
       - Designed and executed B2B restaurant A/B tests segmented by city and customer tags; measured first-order rate, ARPU, and GMV with SQL + Excel, providing statistically validated insights for sales strategy optimization.
