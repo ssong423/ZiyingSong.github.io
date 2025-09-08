@@ -80,7 +80,7 @@ education:
 
   
 work:
-- position: Data Analyst Intern
+  - position: Data Analyst Intern
     company_name: Meituan
     company_url: 'https://www.siemens.com/global/en.html'
     company_logo: 'https://www.cdcsoftware.com/wp-content/uploads/2019/02/Siemens-Logo.png'
