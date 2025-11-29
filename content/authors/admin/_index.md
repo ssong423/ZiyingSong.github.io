@@ -115,12 +115,12 @@ work:
     date_end: 2020-08-01
     summary: |
       Responsibilities include:
-      - Built and deployed an end-to-end user intent prediction system, automating Python-based ETL pipelines and reducing manual workload by 5+ hours/week. Also developed an LSTM + Attention model to evaluate text quality, achieving 92% accuracy and automating review of 2M+ UGC items daily.
+      - Developed an LSTM + Attention model to evaluate text quality, achieving 92% accuracy and automating review of 2M+ UGC items daily.
       - Engineered features and performed EDA using Pandas, NumPy, and Scikit-learn, extracting user behavioral signals and optimizing SQL queries for real-time retrieval and model training.
       - Created a MySQL-based platform with co-occurrence tagging, increasing feature extraction efficiency by 60% and enabling downstream modeling workflows.
       - Trained and evaluated ML models (e.g., XGBoost, logistic regression, decision trees), improving prediction accuracy by 20% through hyperparameter tuning and performance assessment using AUC, precision, and recall.
       - Built a document quality prediction system with XGBoost (AUC = 0.91), detecting textual redundancy and keyword stuffing, and generating automated scores for 505K+ documents.
-      - Led A/B testing and model evaluation using PSM methods, resulting in a 40% improvement in training efficiency for document classification models and contributing to enhanced content ranking strategies in collaboration with cross-functional teams.
+      - Led model evaluation using PSM methods, resulting in a 40% improvement in training efficiency for document classification models and contributing to enhanced content ranking strategies in collaboration with cross-functional teams.
 
   - position: Undergraduate Learning Assistant
     company_name: University of North Carolina at Chapel Hill 
@@ -132,18 +132,7 @@ work:
       Responsibilities include:
       - Supported in-class learning by answering student questions during lectures, helping clarify concepts in multivariable calculus in real time.
       - Fostered an interactive classroom environment by encouraging questions and peer discussion.
-  - position: Part-time Data Analyst Assistant
-    company_name: China Railway Materials Track Tech Service Group
-    company_url: 'https://igcen.crmsc.com.cn/aboutus/company/2020/37446.shtml'
-    company_logo: 'https://en.wikipedia.org/wiki/China_Railway#/media/File:China_Railways.svg'
-    date_start: 2023-01-10
-    date_end: 2023-04-20
-    summary: |
-      Responsibilities include:
-      - Mined and modeled three years of inspection data across climate, injury type, weld type, and location, identifying patterns in rail flaw occurrences.  
-      - Conducted exploratory data analysis and time series modeling using R to detect seasonal trends and forecast defect rates.  
-      - Improved data reliability and accessibility by cleaning and managing records in SQL, contributing to dashboard-ready outputs.  
-      - Designed and ran A/B tests to evaluate the performance of different anomaly detection methods, selecting the optimal approach for long-term monitoring.
+  
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
